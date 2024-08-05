@@ -1,0 +1,14 @@
+C:\CompetencyTest\bin\Debug\appsettings.Development.json
+C:\CompetencyTest\bin\Debug\appsettings.json
+C:\CompetencyTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CompetencyTest\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\CompetencyTest\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CompetencyTest\bin\Debug\Microsoft.OpenApi.dll
+C:\CompetencyTest\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\CompetencyTest\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\CompetencyTest\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\CompetencyTest\bin\Debug\MyWebApp2.deps.json
+C:\CompetencyTest\bin\Debug\MyWebApp2.runtimeconfig.json
+C:\CompetencyTest\bin\Debug\MyWebApp2.exe
+C:\CompetencyTest\bin\Debug\MyWebApp2.dll
+C:\CompetencyTest\bin\Debug\MyWebApp2.pdb

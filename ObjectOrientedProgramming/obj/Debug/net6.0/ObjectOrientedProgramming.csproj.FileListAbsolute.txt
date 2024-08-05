@@ -1,0 +1,11 @@
+C:\CompetencyTest\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.deps.json
+C:\CompetencyTest\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.dll
+C:\CompetencyTest\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.pdb
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.dll
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\refint\ObjectOrientedProgramming.dll
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.pdb
+C:\CompetencyTest\ObjectOrientedProgramming\obj\Debug\net6.0\ref\ObjectOrientedProgramming.dll

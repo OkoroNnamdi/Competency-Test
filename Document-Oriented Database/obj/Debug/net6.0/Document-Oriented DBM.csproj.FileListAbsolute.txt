@@ -1,0 +1,15 @@
+C:\CompetencyTest\Document-Oriented Database\bin\Debug\net6.0\Document-Oriented DBM.deps.json
+C:\CompetencyTest\Document-Oriented Database\bin\Debug\net6.0\Document-Oriented DBM.dll
+C:\CompetencyTest\Document-Oriented Database\bin\Debug\net6.0\Document-Oriented DBM.pdb
+C:\CompetencyTest\Document-Oriented Database\bin\Debug\net6.0\Relational DBM.dll
+C:\CompetencyTest\Document-Oriented Database\bin\Debug\net6.0\Relational DBM.pdb
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.csproj.AssemblyReference.cache
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.AssemblyInfoInputs.cache
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.AssemblyInfo.cs
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.csproj.CoreCompileInputs.cache
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.csproj.CopyComplete
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.dll
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\refint\Document-Oriented DBM.dll
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\Document-Oriented DBM.pdb
+C:\CompetencyTest\Document-Oriented Database\obj\Debug\net6.0\ref\Document-Oriented DBM.dll

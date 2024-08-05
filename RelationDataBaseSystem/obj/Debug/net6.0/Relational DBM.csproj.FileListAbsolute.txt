@@ -1,0 +1,14 @@
+C:\CompetencyTest\RelationDataBaseSystem\bin\Debug\net6.0\Relational DBM.deps.json
+C:\CompetencyTest\RelationDataBaseSystem\bin\Debug\net6.0\Relational DBM.runtimeconfig.json
+C:\CompetencyTest\RelationDataBaseSystem\bin\Debug\net6.0\Relational DBM.dll
+C:\CompetencyTest\RelationDataBaseSystem\bin\Debug\net6.0\Relational DBM.pdb
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.csproj.AssemblyReference.cache
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.AssemblyInfoInputs.cache
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.AssemblyInfo.cs
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.csproj.CoreCompileInputs.cache
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.dll
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\refint\Relational DBM.dll
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.pdb
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\Relational DBM.genruntimeconfig.cache
+C:\CompetencyTest\RelationDataBaseSystem\obj\Debug\net6.0\ref\Relational DBM.dll
